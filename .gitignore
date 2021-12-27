@@ -1,13 +1,32 @@
 # This .gitignore file should be placed at the root of your Unity project directory
-#
+
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
-#
+
+# If I don't know what the ignored thing is supposed to do, I'll write "Idk". Hopefully someone else can describe it for me.
+
+# The library folder stores Unity's internal representation of developer's assets and works similarly as a cache folder
+# Unity autogenerates library files from developer's asset data if those files currently do not exist.
 /[Ll]ibrary/
+
+# Used to generate temporary files required during the development process.
+# If temp folder does not exist or is deleted, Unity regenerates it every time a developer opens a project in the editor.
 /[Tt]emp/
+
+# Idk
 /[Oo]bj/
+
+# Idk
 /[Bb]uild/
+
+# Idk
 /[Bb]uilds/
+
+# Log files that get written when you play in the editor.
+# Unity autogenerates these files every time you play.
 /[Ll]ogs/
+
+# MemoryCaptures can get excessive in size.
+# They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
