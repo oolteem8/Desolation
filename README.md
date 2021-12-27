@@ -1,0 +1,2 @@
+# Desolation
+This is an overly ambitious project to let a few people make a triple-A level game. There'll probably be a lot of stuff that goes wrong and stuff. This project is also a testing bed for random game ideas, but it must relate to the world of Desolation that I created. If you don't know what this world is, then it's probably because I haven't included the link to the Notion idea yet. Lol. As you can tell, this will be an informal project.
